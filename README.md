@@ -1,5 +1,5 @@
 # Pendeteksian Lokasi<br>
-Nama Aplikasi : Advanced Android - Places <br> <br>
+Nama Aplikasi : Advanced Android - Shushme-develop <br> <br>
 
 # Identitas<br>
 Nama lengkap  : Muhammad Rizki Amrullah <br>
